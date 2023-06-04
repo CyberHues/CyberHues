@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CyberHues
 - 👀 I’m interested into Digital Security.
-- 🌱 I’m currently learning Digital forensics.
-- 💞️ I’m looking to collaborate on rust based digital security projects. 
+- 🌱 I’m currently learning digital forensics.
+- 💞️ I’m looking to collaborate on rust based anti-surveillance projects. 
 - 📫 How to reach me - Twitter DM.
 
 <!---
